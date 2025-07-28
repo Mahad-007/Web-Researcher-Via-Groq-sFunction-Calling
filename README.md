@@ -1,4 +1,4 @@
-# Researcher Agent using Groq & SerpAPI
+# Researcher Agent using Groq & BraveAPI
 
 ## 🎯 Overview
 This app demonstrates Groq API’s **tool use (function calling)** via a Streamlit UI.  
@@ -52,4 +52,4 @@ Edit
 
 ## 📚 References
 - Groq docs on tool use :contentReference[oaicite:3]{index=3}  
-- SerpAPI & Groq integration example :contentReference[oaicite:4]{index=4}
+- BraveAPI & Groq integration example :contentReference[oaicite:4]{index=4}
